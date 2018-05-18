@@ -22,4 +22,6 @@ Sensors and Actuators Used:
 - Mini Vibration Motor - 10mm
 - DC Motors
 
+Note, operator inputs of high values have not been tested extensively and could contain bugs.
+
 For more information on the code, refer to the file "FinalReport_MicrocontrollerSections_JayJaewonYoo" which details the purpose and functionality of each section of the code. This file refers to Appendix E which is not included. Appendix E is simply a copy of the code and line numbers specified for Appendix E match that of main.c.
