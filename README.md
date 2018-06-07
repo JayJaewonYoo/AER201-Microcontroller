@@ -3,6 +3,13 @@ Software for a hardware fastener sorting machine. Used in AER201, 2018 Winter. F
 
 All the code is found in main.c to avoid file linking issues. Each set of functions designated for specific tasks are divided by editor-folds.
 
+How to download:
+1) Create a new project using MPLAB X configured for a PIC18F4620 microcontroller.
+2) Delete the automatically generated main.c
+3) Download all files in the repository excluding README.md and FinalReport_MicrocontrollerSections_JayJaewonYoo.pdf and move them to the new MPLAB X IDE project directory. 
+4) In the MPLAB X IDE, right click the Source Files folder under the project and select "Add Existing Items" then select all .c files. 
+5) Right click the Head Files folder under the project and select "Add Existing Items" then select all .h files. 
+
 Available functions:
 - Keypad and LCD Interfacing
 - Integration with Physical Components
