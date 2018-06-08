@@ -8,7 +8,8 @@ How to download:
 2) Delete the automatically generated main.c
 3) Download all files in the repository excluding README.md and FinalReport_MicrocontrollerSections_JayJaewonYoo.pdf and move them to the new MPLAB X IDE project directory. 
 4) In the MPLAB X IDE, right click the Source Files folder under the project and select "Add Existing Items" then select all .c files. 
-5) Right click the Head Files folder under the project and select "Add Existing Items" then select all .h files. 
+5) Right click the Header Files folder under the project and select "Add Existing Items" then select all .h files. 
+6) Connect to the PIC18F4620 microcontroller and select "Make and Program Device Main Project." 
 
 Available functions:
 - Keypad and LCD Interfacing
